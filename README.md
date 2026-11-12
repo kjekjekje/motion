@@ -15,3 +15,7 @@ powershell -ExecutionPolicy Bypass -File am_build\server.ps1
 ```
 
 브라우저에서 http://localhost:8765/ 를 열고 **REC**를 누르면 30초 동안 녹화한 뒤 `AsianMission_30s_9x16.mp4`로 저장됩니다.
+
+## 웹에서 바로 보기
+
+https://kjekjekje.github.io/motion/ (루트의 `index.html`: 브라우저에서 애니메이션, 음성, 배경음악을 실시간으로 재생)
